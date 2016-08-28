@@ -1,0 +1,8 @@
+.installation {
+	width: $inner_width;
+	margin: 0 auto 20rem;
+
+	p {
+		@include large_explanatory_text;
+	}
+}

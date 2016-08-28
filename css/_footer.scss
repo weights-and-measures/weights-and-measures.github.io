@@ -1,0 +1,15 @@
+.footer {
+	@include clearfix;
+	background: $dark_gray;
+	color: $white;
+	
+	.info {
+		@include clearfix;
+		@include two_up;
+		padding: 3rem 0 10rem;
+
+		p {
+			color: $white;
+		}
+	}
+}

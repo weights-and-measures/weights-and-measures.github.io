@@ -1,0 +1,21 @@
+.tour {
+	@include clearfix;
+	margin-top: 10rem;
+
+	h2 {
+		@include small_title;
+		text-align: center;
+	}
+
+	& > p {
+		@include large_explanatory_text;
+		width: $inner_width;
+		margin: 5rem auto 1rem;
+	}
+
+	.tour-details {
+		@include two_up;
+		@include clearfix;
+		padding-bottom: 10rem;
+	}
+}

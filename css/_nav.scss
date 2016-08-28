@@ -1,0 +1,28 @@
+.nav {
+	position: fixed;
+	top: 0;
+	left: calc(5% + .3rem);
+	right: calc(5% + .3rem);
+	background: $white;
+	border-bottom: 1px solid $light_gray;
+	padding: 15px 0;
+	text-align: center;
+	z-index: 100;
+	opacity: 1;
+	transition: opacity .15s ease;
+
+	&.hidden {
+		opacity: 0;
+	}
+
+	a {
+		@include small_title;
+		border: none;
+		padding: 0 2rem;
+		color: $mid_gray;
+
+		&.current {
+			color: $black;
+		}
+	}
+}

@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+$serif : 'Adobe Caslon Pro', Georgia, Serif;
+$sans  : 'Atlas Grotesk', sans;
+
+$black      : #000;
+$dark_gray  : #232323;
+$mid_gray   : #595959;
+$light_gray : #dddbd3;
+$blue       : #2846f6;
+$white      : #f2f1ed;
+
+$outer_width : 90%;
+$inner_width : 60%;
+$large_unit  : 30%;
+$small_unit  : 20%;
+
+@import 'mixins';
+@import 'base';
+@import 'nav';
+@import 'intro';
+@import 'portraits';
+@import 'tour';
+@import 'footer';

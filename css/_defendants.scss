@@ -1,0 +1,99 @@
+@-webkit-keyframes fade {
+  0%   { opacity: 0; }
+  10%  { opacity: 1; }
+  50%  { opacity: 1; }
+  60%  { opacity: 0; }
+}
+@-moz-keyframes fade {
+  0%   { opacity: 0; }
+  10%  { opacity: 1; }
+  50%  { opacity: 1; }
+  60%  { opacity: 0; }
+}
+@-o-keyframes fade {
+  0%   { opacity: 0; }
+  10%  { opacity: 1; }
+  50%  { opacity: 1; }
+  60%  { opacity: 0; }
+}
+@keyframes fade {
+  0%   { opacity: 0; }
+  10%  { opacity: 1; }
+  50%  { opacity: 1; }
+  60%  { opacity: 0; }
+}
+
+.defendants {
+	@include clearfix;
+	margin: 8rem auto 15rem;
+
+	* {
+		@include border-box;
+	}
+
+	.fader {
+		position: relative;
+
+		img + img {
+			position: absolute;
+			top: 0;
+			left: 0;
+			opacity: 0;
+			-webkit-animation: fade 10s infinite; /* Safari 4+ */
+  		-moz-animation:    fade 10s infinite; /* Fx 5+ */
+  		-o-animation:      fade 10s infinite; /* Opera 12+ */
+  		animation:         fade 10s infinite; /* IE 10+, Fx 29+ */
+		}
+	}
+
+	.col1, .col3 {
+		width: $small_unit;
+		float: left;
+		padding: 0 .3rem;
+	}
+
+	.col2, .col4 {
+		width: $large_unit;
+		float: left;
+		padding: 0 .3rem;
+	}
+
+	.col1 .fader img + img {
+		animation-delay: 4s;
+	}
+
+	.col2 .fader img + img {
+		animation-delay: 8s;
+	}
+
+	.col3 {
+		margin-top: 4.25rem;
+	}
+
+	.col4 {
+		margin-top: 2rem;
+	}
+
+	img {
+		margin: 0 0 .5rem 0;
+	}
+
+	h3 {
+		@include large_title;
+		margin: 0;
+	}
+
+	p {
+		@include body_text;
+		margin: 0;
+	}
+
+	aside {
+		@include aside_text;
+		margin: 0 0 .5rem 0;
+	}
+
+	.col1 aside {
+		text-align: right;
+	}
+}

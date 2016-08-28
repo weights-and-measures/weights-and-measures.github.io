@@ -1,0 +1,15 @@
+.portraits {
+	width: 100%;
+
+	h2 {
+		@include small_title;
+		margin: 8rem auto 5rem;
+		text-align: center;
+	}
+
+}
+
+@import 'defendants';
+@import 'victims';
+@import 'practitioners';
+@import 'installation';

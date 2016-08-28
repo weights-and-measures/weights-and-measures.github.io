@@ -1,0 +1,38 @@
+.intro-module {
+	text-align: center;
+
+	h1 {
+		display: none;
+	}
+
+	img {
+		margin: 40vh 0;
+		width: 250px;
+	}
+
+	h2 {
+		@include small_title;
+	}
+
+	.intro-text {
+		@include large_explanatory_text;
+
+		width: $inner_width;
+		margin: 20rem auto 2rem;
+		text-align: left;
+
+		.title-inline {
+			font-family: $serif;
+			text-transform: uppercase;
+			font-size: 25px;
+			font-weight: 700;
+			letter-spacing: 4px;
+			line-height: 0;
+		}
+	}
+
+	.intro-text-secondary {
+		@include clearfix;
+		@include two_up;
+	}
+}

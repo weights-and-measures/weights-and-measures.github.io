@@ -1,0 +1,16 @@
+.victims {
+	@include clearfix;
+	@include two_up;
+
+	margin-bottom: 20rem;
+
+	h3 {
+		@include large_title;
+		text-align: left;
+		margin: 0;
+	}
+
+	p {
+		margin: 0;
+	}
+}
