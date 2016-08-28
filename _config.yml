@@ -25,7 +25,3 @@ markdown: kramdown
 
 sass:
   sass_dir: css
-
-collections:
-  paintings
-  photographs
