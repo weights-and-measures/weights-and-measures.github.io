@@ -13,7 +13,7 @@ collections:
     output: false
   photographs:
     title: photographs
-    output: true
+    output: false
 email: bradleymccallum@me.com
 description: |
   Weights and Measures is a socially engaged public art project, conceived by Bradley McCallum, that examines international justice through portraits.
