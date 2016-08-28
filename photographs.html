@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class='photographs'>
+
+{% for photograph in site.photographs %}
+	
+	<div class='photograph'>
+	{{ photograph.content }}
+	</div>
+
+{% endfor %}
+
+</div>
