@@ -1,0 +1,20 @@
+.painting {
+	width: $outer_width;
+	margin: auto;
+	text-align: center;
+	
+	img {
+		max-height: 80vh;
+	}
+
+	p + p {
+		@include body_text;
+		width: $inner_width;
+		margin: auto;
+		text-align: left;
+	}
+}
+
+.paintings {
+	margin-top: 5rem;
+}

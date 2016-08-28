@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class='paintings'>
+
+{% for painting in site.paintings %}
+
+	<div class='painting'>
+		{{ painting.content }}
+	</div>
+
+{% endfor %}
+
+</div>
