@@ -11,6 +11,11 @@
 		}
 	}
 
-	window.addEventListener('scroll', checkNav);
-	checkNav();
+	if (window.location.pathname == '/') {
+		window.addEventListener('scroll', checkNav);
+		checkNav();
+	} else {
+		document.querySelector('.nav').classList.remove('hidden');
+	}
+
 })();
