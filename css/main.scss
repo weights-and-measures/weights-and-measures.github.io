@@ -3,8 +3,8 @@
 
 @charset "utf-8";
 
-$serif : 'Adobe Caslon Pro', Georgia, Serif;
-$sans  : 'Atlas Grotesk', sans;
+$serif : 'adobe-caslon-pro', Georgia, Serif;
+$sans  : 'Atlas Grotesk Web', sans;
 
 $black      : #000;
 $dark_gray  : #232323;
@@ -19,11 +19,11 @@ $large_unit  : 30%;
 $small_unit  : 20%;
 
 @import 'mixins';
+@import 'fonts';
 @import 'base';
 @import 'nav';
 @import 'intro';
 @import 'portraits';
 @import 'tour';
 @import 'footer';
-@import 'paintings';
-@import 'photographs';
+@import 'modals';

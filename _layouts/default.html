@@ -10,15 +10,29 @@ layout: default
 </head>
 <body>
 
-<div class='nav hidden'>
-  <a href="/">About</a>
-  <a href="/paintings.html">Paintings</a>
-  <a href="/photographs.html">Photographs</a>
-</div>
-
 {{ content }}
 
+<div class='paintings modal' id='paintings'>
+	<a href='#' class='dismiss'>&times;</a>
+	{% for painting in site.paintings %}
+		<div class='painting'>
+			{{ painting.content }}
+		</div>
+	{% endfor %}
+</div>
+
+<div class='photographs modal' id='photographs'>
+	<a href='#' class='dismiss'>&times;</a>
+	{% for photograph in site.photographs %}
+		<div class='photograph'>
+			{{ photograph.content }}
+		</div>
+	{% endfor %}
+</div>
+
 <script type="text/javascript" src='/js/main.js'></script>
+<script src="https://use.typekit.net/ndi1uue.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 </body>
 </html>
