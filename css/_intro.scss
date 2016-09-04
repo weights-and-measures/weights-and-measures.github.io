@@ -14,6 +14,15 @@
 		@include small_title;
 	}
 
+	.scroll-indicator {
+		width: 10px;
+		height: 10px;
+		border-left: 1px solid $mid_gray;
+		border-bottom: 1px solid $mid_gray;
+		transform: rotate(-45deg);
+		margin:  2rem auto 0;
+	}
+
 	.intro-text {
 		@include large_explanatory_text;
 
