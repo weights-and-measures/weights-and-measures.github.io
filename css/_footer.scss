@@ -12,4 +12,13 @@
 			color: $white;
 		}
 	}
+
+	.credit {
+		width: $inner_width;
+		margin: auto;
+		border-top: 1px solid $mid_gray;
+		color: $mid_gray;
+		font-family: $sans;
+		padding: 1rem 0 3rem;
+	}
 }
