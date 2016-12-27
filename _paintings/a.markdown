@@ -8,5 +8,5 @@ position: 4
 
 Defiance - William Samoei Ruto, 
 Oil on Linen,
-68 x 48”,
+65 x 48”,
 2015
