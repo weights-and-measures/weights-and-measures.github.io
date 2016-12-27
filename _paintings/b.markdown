@@ -8,5 +8,5 @@ position: 3
 
 Brother Number Two – Nuon Chea, 
 Oil on Linen, 
-68 x 48”, 
+65 x 48”, 
 2015
