@@ -6,7 +6,7 @@ position: 3
 
 ![b1.jpg](/uploads/b1.jpg)![b2.jpg](/uploads/b2.jpg)
 
-Brother Number Two – Nuon Chea
-Oil on Linen
-68 x 48”
+Brother Number Two – Nuon Chea, 
+Oil on Linen, 
+68 x 48”, 
 2015
