@@ -8,5 +8,5 @@ position: 13
 
 President - Charles Taylor,
 Oil on Linen,
-65” x 48”,
+65 x 48”,
 2015
