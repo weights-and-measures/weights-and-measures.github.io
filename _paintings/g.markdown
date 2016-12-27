@@ -5,3 +5,7 @@ position: 9
 ---
 
 ![g1-720090.jpg](/uploads/g1-720090.jpg)![g2-b5aac5.jpg](/uploads/g2-b5aac5.jpg)
+
+Oil on Linen, 
+65 x 48”, 
+2015
