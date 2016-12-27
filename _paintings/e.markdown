@@ -8,5 +8,5 @@ position: 7
 
 The Butcher - Radovan Karadžić, 
 Oil on Linen,
-68 x 48”,
+65 x 48”,
 2015
