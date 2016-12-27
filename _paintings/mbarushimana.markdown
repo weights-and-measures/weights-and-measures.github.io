@@ -1,7 +1,7 @@
 ---
 title: Mbarushimana
 date: 2016-10-18 16:39:00 Z
-position: 3
+position: 2
 ---
 
 ![Mbarushimana_diptych.jpeg](/uploads/Mbarushimana_diptych.jpeg)
