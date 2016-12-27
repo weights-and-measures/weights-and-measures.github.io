@@ -7,4 +7,3 @@ date: 2016-12-27 21:55:00 Z
 
 Alison.Smith
 
-![Bill.Pace.jpg](/uploads/Bill.Pace.jpg)
