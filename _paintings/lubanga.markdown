@@ -4,7 +4,6 @@ date: 2016-08-28 18:36:00 Z
 position: 0
 ---
 
-![lubanga_std.jpg](/uploads/lubanga_std.jpg)
-![lubanga_rev.jpg](/uploads/lubanga_rev.jpg)
+![1-9a6b22.jpg](/uploads/1-9a6b22.jpg)![2-99d677.jpg](/uploads/2-99d677.jpg)
 
 Thomas Lubanga, leader of UPC in DRC, convicted of crimes against humanity by the ICC. (first painting)
