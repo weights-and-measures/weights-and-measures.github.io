@@ -5,3 +5,7 @@ position: 14
 ---
 
 ![l1.jpg](/uploads/l1.jpg)![l2.jpg](/uploads/l2.jpg)
+
+Oil on Linen, 
+65 x 48”, 
+2016
