@@ -8,5 +8,5 @@ position: 8
 
 Radio Host - Joshua Arap Sang,
 Oil on Linen,
-65” x 48”,
+65 x 48”,
 2015
