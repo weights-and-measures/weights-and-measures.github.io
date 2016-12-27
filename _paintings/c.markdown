@@ -8,5 +8,5 @@ position: 5
 
 Nationalist - Slobodan Milošević,
 Oil on Linen,
-65” x 48”,
+65 x 48”,
 2015
