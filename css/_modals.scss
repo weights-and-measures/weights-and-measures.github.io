@@ -57,4 +57,12 @@
 	width: 25%;
 	padding: .3rem;
 	margin: auto;
+	
+	p + p {
+		@include body_text;
+		width: $inner_width;
+		margin: auto auto 2.4em;
+		text-align: left;
+		color: $mid_gray;
+	}
 }
