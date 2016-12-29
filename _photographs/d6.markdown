@@ -1,7 +1,7 @@
 ---
 title: d6
 date: 2016-12-29 16:59:00 Z
-position: 25
+position: 39
 ---
 
 ![scott_bartel_06.jpg](/uploads/scott_bartel_06.jpg)
