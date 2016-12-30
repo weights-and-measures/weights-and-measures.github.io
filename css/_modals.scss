@@ -54,7 +54,7 @@
 }
 
 .photograph {
-	width: 40%;
+	width: 30%;
 	padding: .3rem;
 	margin: auto;
 	
@@ -70,4 +70,7 @@
 		line-height: 21px;
 	}
 	
+	p img {
+		width: 100%;
+	}
 }
