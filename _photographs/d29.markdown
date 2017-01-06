@@ -1,7 +1,7 @@
 ---
 title: Fergal Gaynor
 date: 2016-12-29 17:29:00 Z
-position: 21
+position: 22
 ---
 
 ![fergal_gaynor06.jpg](/uploads/fergal_gaynor06.jpg)
