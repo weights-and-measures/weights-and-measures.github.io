@@ -1,5 +1,5 @@
 ---
-title: Scott Bartell*
+title: Scott Bartell
 date: 2016-12-29 16:59:00 Z
 position: 7
 ---
