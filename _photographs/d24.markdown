@@ -1,5 +1,5 @@
 ---
-title: Jaqueline Mutera*
+title: Jaqueline Mutera
 date: 2016-12-29 17:19:00 Z
 published: false
 position: 5
