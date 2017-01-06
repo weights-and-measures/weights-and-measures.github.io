@@ -2,6 +2,9 @@
 title: Weights and Measures
 timezone: UTC
 collections:
+  paintings:
+    title: Defendants
+    output: false
   photographs:
     title: Justice Practitioners
     output: false
@@ -11,9 +14,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  paintings:
-    title: paintings
-    output: false
 email: bradleymccallum@me.com
 description: 'Weights and Measures is a socially engaged public art project, conceived
   by Bradley McCallum, that examines international justice through portraits.
