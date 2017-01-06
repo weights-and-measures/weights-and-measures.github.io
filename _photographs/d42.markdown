@@ -1,5 +1,5 @@
 ---
-title: Bertin Bishiwabo*
+title: Bertin Bishiwabo
 date: 2016-12-29 19:22:00 Z
 position: 6
 ---
