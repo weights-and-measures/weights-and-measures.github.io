@@ -2,6 +2,9 @@
 title: Weights and Measures
 timezone: UTC
 collections:
+  photographs:
+    title: Justice Practitioners
+    output: false
   posts:
     title: Posts
     output: true
@@ -10,9 +13,6 @@ collections:
     output: true
   paintings:
     title: paintings
-    output: false
-  photographs:
-    title: photographs
     output: false
 email: bradleymccallum@me.com
 description: 'Weights and Measures is a socially engaged public art project, conceived
