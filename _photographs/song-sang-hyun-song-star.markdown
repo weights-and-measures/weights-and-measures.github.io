@@ -9,4 +9,4 @@ position: 2
 Sang-Hyun Song <br> Former President of the International Criminal Court
 
 
-A professor of law at Seoul National University for over thirty years and distinguished academic, Judge Song serves on the board of directors of various humanitarian organizations such as UNICEF Korea and Korea Family Legal Service Center. The South Korean native was the first president of the ICC and is a global advocate for international criminal justice and peaceful conflict resolution.
+A professor of law at Seoul National University for over thirty years and a distinguished academic, Judge Song serves on the board of directors of various humanitarian organizations such as UNICEF Korea and Korea Family Legal Service Center. The South Korean native was the first president of the ICC and is a global advocate for international criminal justice and peaceful conflict resolution.
