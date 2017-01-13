@@ -1,7 +1,7 @@
 ---
 title: Charles Taylor
 date: 2016-12-27 19:56:00 Z
-position: 13
+position: 11
 ---
 
 ![k1.jpg](/uploads/k1.jpg)![k2.jpg](/uploads/k2.jpg)
