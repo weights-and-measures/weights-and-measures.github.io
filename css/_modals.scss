@@ -60,7 +60,7 @@
 	
 	p + p {
 		@include body_text;
-		margin: 0 0 1.1em;
+		margin: 0 0 .7em;
 		text-align: left;
 		color: $mid_gray;
 	}
@@ -68,6 +68,7 @@
 	p:nth-child(3) {
     	font-size: 13px;
 		line-height: 21px;
+		margin: 0 0 1.1em;
 	}
 	
 	p img {
