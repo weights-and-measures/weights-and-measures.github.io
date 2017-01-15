@@ -1,7 +1,6 @@
 ---
 title: Richard Goldstone
 date: 2016-12-29 17:00:00 Z
-published: false
 position: 0
 ---
 
