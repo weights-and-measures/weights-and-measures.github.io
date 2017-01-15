@@ -1,6 +1,6 @@
 ---
 title: Richard Dicker
-date: 2016-12-01 20:45:00 Z
+date: 2016-12-01 20:51:00 Z
 position: 4
 ---
 
