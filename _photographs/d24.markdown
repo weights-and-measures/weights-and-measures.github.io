@@ -2,7 +2,7 @@
 title: Jaqueline Mutera
 date: 2016-12-29 17:19:00 Z
 published: false
-position: 6
+position: 7
 ---
 
 ![jaqueline_mutera_05.jpg](/uploads/jaqueline_mutera_05.jpg)
