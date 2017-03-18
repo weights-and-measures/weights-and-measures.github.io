@@ -1,7 +1,6 @@
 ---
 title: Xavier Jean Keïta
 date: 2016-12-29 16:44:00 Z
-published: false
 position: 57
 ---
 
